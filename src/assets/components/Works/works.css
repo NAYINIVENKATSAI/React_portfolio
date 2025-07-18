@@ -1,0 +1,25 @@
+
+.work span{
+    margin-left: 600px;
+    font-size: 2rem;
+    max-width: 5rem;
+
+}
+.work p{
+    margin-left: 300px;
+}
+.workimgs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+.workimgs img {
+    width: 25%;        
+    max-width: 30rem;
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px;
+}

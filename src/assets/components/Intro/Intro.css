@@ -1,0 +1,30 @@
+
+ .imgdiv img{
+   width: 500px;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   
+}
+.hireme{
+        margin-top: 20px;
+    padding: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+.hireme img{
+    object-fit: cover;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+.leftsec a{
+    text-decoration: none;
+    
+} 
+
+ 
